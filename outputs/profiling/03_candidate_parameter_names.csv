@@ -1,0 +1,59 @@
+Medium,parameter_name,parameter_code,n_obs,units
+Water - Fresh,Phosphorus Total (fl. conc.),P--T,24488,mg/L | µg/L
+Water - Fresh,pH (acidity),0004,22570,pH units
+Water - Fresh,Nitrate (NO3) Dissolved (fl. conc.),1110,20530,mg/L
+Water - Fresh,Turbidity (turb.),0015,17971,NTU
+Water - Fresh,Phosphorus Total Dissolved (fl. conc.),P--D,17390,mg/L | µg/L
+Water - Fresh,Specific Conductance (elec. cond.),0011,16432,µS/cm
+Water - Fresh,Phosphorus Ort.Dis-P (fl. conc.),1118,15044,mg/L
+Water - Fresh,Temperature-Field (temp.),TEMF,14018,degC
+Water - Fresh,Nitrate(NO3) + Nitrite(NO2) Dissolved (fl. conc.),1109,13301,mg/L
+Water - Fresh,Specific Conductivity-Field (elec. cond.),SC-F,12854,µS/cm
+Water - Fresh,Dissolved Oxygen-Field (fl. conc.),DO-F,12804,mg/L
+Water - Fresh,pH-Field (acidity),PH-F,8729,pH units
+Water - Fresh,Turbidity-Field (turb.),TURF,8402,NTU
+Water - Fresh,Temperature (temp.),0013,3008,degC
+Water - Fresh,Biochemical Oxygen Demand (fl. conc.),0115,1642,mg/L
+Water - Fresh,Oxygen Dissolved (fl. conc.),0014,981,mg/L
+Water - Fresh,Chemical Oxygen Demand (fl. conc.),0116,875,mg/L
+Water - Fresh,Conductivity; leachable (elec. cond.),COND-L,326,µS/cm
+Water - Fresh,Oxygen; dissolved saturation %; field (ratio),DOSA-F,257,%
+Water - Fresh,Oxygen Dissolved (ratio),0014,212,%
+Water - Fresh,Dissolved Oxygen-Field (saturation) (ratio),DO-F,168,%
+Water - Fresh,Carbonaceous Biochemical Oxygen Demand (fl. conc.),CBOD,123,mg/L
+Water - Fresh,Electrical Conductivity - Field (elec. cond.),EC-F,120,µS/cm
+Water - Fresh,Dissolved Oxygen (%); Client Supplied (ratio),DOCS,46,%
+Water - Fresh,Phosphorus Total (mass conc.),P--T,28,mg/kg
+Water - Fresh,Nitrate (as N) Leachable (fl. conc.),1110-L,17,mg/L
+Water - Fresh,Temperature (Air) (temp.),0020,8,degC
+Water - Waste,pH (acidity),0004,40165,pH units
+Water - Waste,Temperature (temp.),0013,17428,degC
+Water - Waste,Specific Conductance (elec. cond.),0011,16008,µS/cm | mS/cm
+Water - Waste,Nitrate (NO3) Dissolved (fl. conc.),1110,12741,mg/L
+Water - Waste,Phosphorus Total (fl. conc.),P--T,11772,mg/L | µg/L
+Water - Waste,Temperature-Field (temp.),TEMF,11372,degC
+Water - Waste,Dissolved Oxygen-Field (fl. conc.),DO-F,10733,mg/L
+Water - Waste,Specific Conductivity-Field (elec. cond.),SC-F,10614,µS/cm
+Water - Waste,Turbidity-Field (turb.),TURF,8717,NTU
+Water - Waste,pH-Field (acidity),PH-F,7472,pH units
+Water - Waste,Phosphorus Total Dissolved (fl. conc.),P--D,7301,mg/L | µg/L
+Water - Waste,Phosphorus Ort.Dis-P (fl. conc.),1118,7058,mg/L
+Water - Waste,Turbidity (turb.),0015,6943,NTU
+Water - Waste,Nitrate(NO3) + Nitrite(NO2) Dissolved (fl. conc.),1109,6926,mg/L
+Water - Waste,Biochemical Oxygen Demand (fl. conc.),0115,6111,mg/L
+Water - Waste,Chemical Oxygen Demand (fl. conc.),0116,3670,mg/L | µg/L
+Water - Waste,Oxygen Dissolved (fl. conc.),0014,2457,mg/L
+Water - Waste,Carbonaceous Biochemical Oxygen Demand (fl. conc.),CBOD,1965,mg/L
+Water - Waste,Biochemical Oxygen Demand (mass flow),0115,487,t/d | kg/d
+Water - Waste,Phosphorus Ortho (fl. conc.),0118,387,mg/L
+Water - Waste,Biochemical Oxygen Demand - Soluble (fl. conc.),BODS,192,mg/L
+Water - Waste,Chemical Oxygen Demand - Soluble (fl. conc.),CODS,183,mg/L
+Water - Waste,Carbenaceous plus nitrogenous Biochemical Oxygen Demand (fl. conc.),BOD-,157,mg/L
+Water - Waste,Dissolved Oxygen-Field (saturation) (ratio),DO-F,82,%
+Water - Waste,Electrical Conductivity - Field (elec. cond.),EC-F,77,µS/cm
+Water - Waste,pH of the Extraction Fluid used for EPA TCLP extraction (acidity),PHES,49,pH units
+Water - Waste,Conductivity; leachable (elec. cond.),COND-L,16,µS/cm
+Water - Waste,Oxygen; dissolved saturation %; field (ratio),DOSA-F,15,%
+Water - Waste,Dissolved Oxygen (%); Client Supplied (ratio),DOCS,11,%
+Water - Waste,Oxygen Dissolved (ratio),0014,9,%
+Water - Waste,Phosphorus Total (mass conc.),P--T,2,mg/kg

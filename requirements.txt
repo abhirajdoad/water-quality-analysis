@@ -1,0 +1,6 @@
+# Tested with Python 3.10 and 3.13
+pandas==2.3.3
+numpy==2.2.6
+matplotlib==3.10.9
+duckdb==1.5.5      # only needed for scripts/01 and 02 (raw-file profiling and extraction)
+jupyter            # to open / re-run the notebook

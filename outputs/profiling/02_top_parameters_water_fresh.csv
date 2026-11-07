@@ -1,0 +1,26 @@
+parameter_name,parameter_code,n_obs,n_locations,units
+Phosphorus Total (fl. conc.),P--T,24488,1752,mg/L | µg/L
+pH (acidity),0004,22570,1711,pH units
+Nitrate (NO3) Dissolved (fl. conc.),1110,20530,1821,mg/L
+Residue: Non-filterable (TSS) (fl. conc.),0008,18889,1597,mg/L | µg/L
+Hardness (Dissolved) (as CaCO3) (fl. conc.),1107,18317,1684,mg/L
+Turbidity (turb.),0015,17971,1511,NTU
+Nitrogen - Nitrite Dissolved (NO2) (fl. conc.),1111,17480,1783,mg/L
+Phosphorus Total Dissolved (fl. conc.),P--D,17390,1503,mg/L | µg/L
+Sulfate Dissolved (fl. conc.),1121,17354,1743,mg/L
+Magnesium Dissolved (fl. conc.),MG-D,16734,1658,mg/L | µg/L
+Calcium Dissolved (fl. conc.),CA-D,16734,1658,mg/L | µg/L
+Selenium Total (fl. conc.),SE-T,16654,1595,mg/L | µg/L
+Chloride Dissolved (fl. conc.),1104,16464,1756,mg/L
+Sodium Dissolved (fl. conc.),NA-D,16441,1654,mg/L | µg/L
+Specific Conductance (elec. cond.),0011,16432,1670,µS/cm
+Potassium Dissolved (fl. conc.),K--D,16393,1649,mg/L | µg/L
+Cadmium Total (fl. conc.),CD-T,16279,1605,mg/L | µg/L
+Zinc Total (fl. conc.),ZN-T,16269,1605,mg/L | µg/L
+Lead Total (fl. conc.),PB-T,16158,1605,mg/L | µg/L
+Arsenic Total (fl. conc.),AS-T,16153,1604,mg/L | µg/L
+Cadmium Dissolved (fl. conc.),CD-D,16124,1619,mg/L | µg/L
+Zinc Dissolved (fl. conc.),ZN-D,16113,1619,mg/L | µg/L
+Copper Total (fl. conc.),CU-T,16093,1603,mg/L | µg/L
+Copper Dissolved (fl. conc.),CU-D,16068,1619,mg/L | µg/L
+Antimony Total (fl. conc.),SB-T,16041,1597,mg/L | µg/L

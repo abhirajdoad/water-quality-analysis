@@ -1,0 +1,26 @@
+parameter_name,parameter_code,n_obs,n_locations,units
+pH (acidity),0004,40165,509,pH units
+Flow (Avg) (flow),0018,22027,61,m³/d | m³/week
+Residue: Non-filterable (TSS) (fl. conc.),0008,21674,523,mg/L
+Temperature (temp.),0013,17428,51,degC
+Specific Conductance (elec. cond.),0011,16008,414,mS/cm | µS/cm
+Nitrate (NO3) Dissolved (fl. conc.),1110,12741,448,mg/L
+Phosphorus Total (fl. conc.),P--T,11772,476,mg/L | µg/L
+Temperature-Field (temp.),TEMF,11372,303,degC
+Dissolved Oxygen-Field (fl. conc.),DO-F,10733,234,mg/L
+Specific Conductivity-Field (elec. cond.),SC-F,10614,259,µS/cm
+Hardness (Dissolved) (as CaCO3) (fl. conc.),1107,9362,453,mg/L
+Selenium Total (fl. conc.),SE-T,8725,425,mg/L | µg/L
+Turbidity-Field (turb.),TURF,8717,171,NTU
+Aluminum Dissolved (fl. conc.),AL-D,8265,433,mg/L | µg/L
+Magnesium Dissolved (fl. conc.),MG-D,8164,436,mg/L | µg/L
+Calcium Dissolved (fl. conc.),CA-D,8164,436,mg/L | µg/L
+Selenium Dissolved (fl. conc.),SE-D,7988,433,mg/L | µg/L
+Sodium Dissolved (fl. conc.),NA-D,7887,434,mg/L | µg/L
+Nitrogen Ammonia Total (fl. conc.),0108,7885,402,mg/L
+Potassium Dissolved (fl. conc.),K--D,7839,431,mg/L | µg/L
+Zinc Dissolved (fl. conc.),ZN-D,7814,443,mg/L | µg/L
+Iron Dissolved (fl. conc.),FE-D,7765,438,mg/L | µg/L
+Cadmium Dissolved (fl. conc.),CD-D,7755,443,mg/L | µg/L
+Copper Dissolved (fl. conc.),CU-D,7730,440,mg/L | µg/L
+Manganese Dissolved (fl. conc.),MN-D,7693,440,mg/L | µg/L

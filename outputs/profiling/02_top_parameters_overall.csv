@@ -1,0 +1,26 @@
+parameter_name,parameter_code,n_obs,n_locations,units
+pH (acidity),0004,70750,3053,pH units
+Residue: Non-filterable (TSS) (fl. conc.),0008,45863,2724,mg/L | µg/L
+Phosphorus Total (fl. conc.),P--T,43708,2877,mg/L | µg/L
+Nitrate (NO3) Dissolved (fl. conc.),1110,39568,3092,mg/L
+Specific Conductance (elec. cond.),0011,37916,2835,µS/cm | mS/cm
+Hardness (Dissolved) (as CaCO3) (fl. conc.),1107,34295,2894,mg/L
+Calcium Dissolved (fl. conc.),CA-D,31174,2848,mg/L | µg/L
+Magnesium Dissolved (fl. conc.),MG-D,31108,2848,mg/L | µg/L
+Temperature-Field (temp.),TEMF,31037,1915,degC
+Sulfate Dissolved (fl. conc.),1121,30871,2946,mg/L
+Nitrogen - Nitrite Dissolved (NO2) (fl. conc.),1111,30740,3032,mg/L
+Sodium Dissolved (fl. conc.),NA-D,30699,2860,mg/L | µg/L
+Aluminum Dissolved (fl. conc.),AL-D,30548,2801,mg/L | µg/L
+Phosphorus Total Dissolved (fl. conc.),P--D,30538,2392,mg/L | µg/L
+Potassium Dissolved (fl. conc.),K--D,30499,2833,mg/L | µg/L
+Zinc Dissolved (fl. conc.),ZN-D,30216,2835,mg/L | µg/L
+Cadmium Dissolved (fl. conc.),CD-D,30173,2838,mg/L | µg/L
+Selenium Dissolved (fl. conc.),SE-D,30119,2801,mg/L | µg/L
+Nickel Dissolved (fl. conc.),NI-D,30016,2803,mg/L | µg/L
+Copper Dissolved (fl. conc.),CU-D,29941,2838,mg/L | µg/L
+Iron Dissolved (fl. conc.),FE-D,29932,2816,mg/L | µg/L
+Manganese Dissolved (fl. conc.),MN-D,29905,2813,mg/L | µg/L
+Molybdenum Dissolved (fl. conc.),MO-D,29846,2816,mg/L | µg/L
+Arsenic Dissolved (fl. conc.),AS-D,29795,2804,mg/L | µg/L
+Antimony Dissolved (fl. conc.),SB-D,29760,2804,mg/L | µg/L

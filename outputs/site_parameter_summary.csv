@@ -1,0 +1,3 @@
+Location_ID,Location_Name,parameter,parameter_code,parameter_name,unit,records_used,pass_count,review_count,pct_review,records_excluded,distinct_sampling_dates,first_sample_date,last_sample_date,min,q1,median,mean,q3,max,std
+0200097,EVCC -ELKVIEW  (PE425) ERICKSON CREEK AT MOUTH,nitrate,1110,Nitrate (NO3) Dissolved (fl. conc.),mg/L,138,136,2,1.4,0,137,2025-01-06,2026-06-29,0.426,9.128,15.25,12.172,15.8,16.6,5.222
+0200097,EVCC -ELKVIEW  (PE425) ERICKSON CREEK AT MOUTH,temperature,TEMF,Temperature-Field (temp.),degC,159,137,22,13.8,270,148,2025-01-06,2026-06-29,0.7,4.3,5.0,5.483,6.4,10.3,1.798

@@ -1,0 +1,35 @@
+# Raw EnMoDS export (~1.9 GB) - never commit
+data/raw/
+*.csv.gz
+this_yr.csv
+*.duckdb
+*.duckdb.wal
+
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.cache/
+.venv/
+venv/
+env/
+
+# Credentials and local config
+.env
+.env.*
+*.pem
+*.key
+credentials*
+secrets*
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Personal notes not intended for the public repository
+_private/
+_to_delete/
+_archive/
